@@ -1,0 +1,11 @@
+[package]
+name = "power_function"
+version = "0.1.0"
+authors = ["micron"]
+edition = "2018"
+description = "Library File"
+license = "MIT"
+repository = "https://github.com/Ainu8462/my_rep"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
